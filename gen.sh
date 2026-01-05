@@ -1,4 +1,4 @@
-LUAVER=5.4.7
+LUAVER=5.5.0
 LUADIR=lua-$LUAVER
 LUAPKG=lua-$LUAVER.tar.gz
 LUAURL=https://www.lua.org/ftp/$LUAPKG
@@ -148,8 +148,8 @@ cat <<EOF >> $OUTFILE
 /*
   MIT License
 
-  Copyright (c) 1994–2019 Lua.org, PUC-Rio.
-  Copyright (c) 2020-2024 Eduardo Bart (https://github.com/edubart).
+  Copyright (c) 1994–2026 Lua.org, PUC-Rio.
+  Copyright (c) 2020-2026 Eduardo Bart (https://github.com/edubart).
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
